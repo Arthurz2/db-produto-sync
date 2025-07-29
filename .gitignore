@@ -1,0 +1,11 @@
+# Ignorar variáveis de ambiente
+.env
+
+# Ignorar dependências do Node.js
+node_modules/
+
+# Outros arquivos comuns
+.DS_Store
+npm-debug.log
+dist/
+build/
